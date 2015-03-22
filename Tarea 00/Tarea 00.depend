@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1426998641 source:/home/neftali/C++/Tarea 00/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<time.h>
+	<fstream>
+
+1427062544 source:/home/neftali/c++/Tarea 00/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+	<time.h>
+	<fstream>
+
